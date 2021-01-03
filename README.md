@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-If thet doesn't work, do-
+If that doesn't work, do-
 
 ### `npm install`
 then repeat
